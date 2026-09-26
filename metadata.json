@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse",
+  "description": "Online course marketplace with integrated video player, curriculum learning, creator studio, and secure payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
